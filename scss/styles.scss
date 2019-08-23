@@ -1,0 +1,13 @@
+/* base */
+@import 'base/reset';
+@import 'base/typography';
+
+/* mixins */
+@import 'mixins/mediaQueries';
+
+/* components */
+@import 'components/hamburger';
+
+body {
+  height: 100vh;
+}
